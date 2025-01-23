@@ -431,7 +431,7 @@ nav .logo img{
   /* welcome */
   .welcome{
     flex-direction: column;
-    height: 150vh;
+    min-height: 150vh;
   }
   .welcome .left, .welcome .right{
     width: 100%;
